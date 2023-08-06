@@ -1,0 +1,202 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(235, 211, 179);
+}
+.box1 {
+height: 350px;
+width: 700px;
+background-color: aliceblue;
+position: absolute;
+top: 5%;
+left: 5%;
+}
+.box2 {
+    height: 300px;
+    width: 600px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 12%;
+    left: 55%;
+}
+.box3 {
+height: 300px;
+width: 650px;
+background-color: rgb(33, 206, 149);
+position: absolute;
+top: 30%;
+left: 30%;
+
+
+
+}
+.box4 {
+    height: 250px;
+    width: 550px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 65%;
+    left: 4%;
+    
+}
+.box5 { 
+
+    height: 220px;
+    width: 400px;
+    position: absolute;
+    top: 67%;
+    left: 50%;
+    background-color: white;
+    mix-blend-mode: overlay;
+
+    
+}
+.button {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    position: absolute;
+    top: 7%;
+    left: 6%;
+    list-style: none;
+    color: black;
+    
+}
+.firstline {
+    position: absolute;
+    top: 20%;
+    left: 7%;
+    font-size: 20px;
+}
+.box6 {
+    height: 100px;
+    width: 120px;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    background-color: rgb(251, 6, 6);
+}
+.box7 {
+    height: 100px;
+    width: 120px;
+    position: absolute;
+    top: 10%;
+    left: 34%; 
+    background-color: gray;
+}
+.box8 {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 10%;
+    left: 44%;
+    background-color: aqua;
+}
+.oldman {
+    position: absolute;
+  top: 12%;
+  left: 27%;
+  
+
+
+}
+.cross {
+    position: absolute;
+    top: 13%;
+    left: 36%;
+
+}
+.graffiti {
+    position: absolute;
+    top: 12%;
+    left: 46%;
+}
+.button2 {
+ display: flex;
+    justify-content: center;
+    gap: 20px;
+    position: absolute;
+    top: 35%;
+    left: 33%;
+    list-style: none;
+    color: black;
+    } 
+    .girl {
+        border-radius: 50%;
+        position: absolute;
+        top: 40%;
+        left: 45%;
+    }
+    .smallgirl1 {
+        position: absolute;
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        left: 60%;
+    }
+    .smallgirl2 {
+        position: absolute;
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        left: 63%;
+    }
+    .smallgirl3 {
+        position: absolute;
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        left: 66%;
+    }
+    .para2 {
+        position: absolute;
+        top: 45%;
+        left: 32%;
+        font-size: 35px;
+    }
+    .para3 {
+        position: absolute;
+        top: 20%;
+        left: 70%;
+        font-size: 30px;
+    }
+.shirt {
+    position: absolute;
+    top: 30%;
+    left: 80%;
+    mix-blend-mode: normal;
+}
+.button3 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    list-style: none;
+    color: black;
+
+}
+.drawing {
+    position: absolute;
+    top: 70%;
+    left: 20%;
+}
+.para4 {
+    position: absolute;
+    top: 90%;
+    left: 17%;
+}
+.para5 {
+    position: absolute;
+    top: 75%;
+    left: 53%;
+}
+.women {
+    position: absolute;
+    top: 73%;
+    left: 65%;
+}
